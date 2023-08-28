@@ -13,6 +13,7 @@ La guerra de Alan Turín
 Fue una guerra muy duerte poara el porque se debate en la segunda guerra mundial, ya que el aporto para que la guerra terminara en dos años en ase a la maquina bomba que realizo se detectaba enigmas secretos,
 de los alemanes para ver en donde hiban a estar sus barcos y que los barcos podrían apoderarse del territorio.
 [![Whats-App-Image-2023-08-26-at-8-01-39-PM.jpg](https://i.postimg.cc/3NYpYr5T/Whats-App-Image-2023-08- 26-a-8-01-39-PM.jpg)](https://postimg.cc/dkND9YVH)
+![WhatsApp Image 2023-08-26 at 8 01 39 PM](https://github.com/LauraNaomi/Informatica-1-/assets/143301791/e839ab39-f7bf-40c2-87ab-334a2508a95e)
 
 Tarea 1.2. La disciplina de la computación: contexto histórico, evolución e importancia.
 ¿Qué son las ciencias de la computación o computación como campo de conocimiento y como disciplina?
