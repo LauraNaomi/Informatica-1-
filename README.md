@@ -1,4 +1,4 @@
-![WhatsApp Image 2023-08-26 at 8 01 39 PM (1)](https://github.com/LauraNaomi/Informatica-1-/assets/143301791/7a7afdb6-03cc-44d5-950e-65b7d65907b8)UNIDAD 1 
+ 
 
 Tarea 1.1 "La computadora y su contexto histórico."
 Las computadoras son las herramientas de cálculo, aritmética y el almacenamiento de datos, ya que nos ayuda a hacer tareas,
