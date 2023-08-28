@@ -1,4 +1,5 @@
 UNIDAD 1 
+
 Tarea 1.1 "La computadora y su contexto histórico."
 Las computadoras son las herramientas de cálculo, aritmética y el almacenamiento de datos, ya que nos ayuda a hacer tareas,
 trabaojos o procesos mucho más rápidos, y de heco es mucho más indespensable. Una de las maquinas aritmeticas fue el abaco, que
@@ -6,6 +7,7 @@ es un principio de la calculadora. La maquina Pascalina que la invento Blaise Pa
 y este Gottfried Leibinitz mejoro la maquina Pascalina, y de aqui se emepso a modificar mas las calculadoras y fuen una parate del Principio de de la
 ordenadores.[![Whats-App-Image-2023-08-26-at-8-01-39-PM-1.jpg](https://i.postimg.cc/GhP7F9hk/Whats-App-Image- 2023-08-26-at-8-01-39-PM-1.jpg)](https://postimg.cc/GH2xrLD2)
 [![Whats-App-Image-2023-08-26-at-8-01-39-PM-2.jpg](https://i.postimg.cc/PJQWwpzJ/Whats-App-Image-2023- 26-08-a-8-01-39-PM-2.jpg)](https://postimg.cc/4HnHC30R)
+
 
 La guerra de Alan Turín
 Fue una guerra muy duerte poara el porque se debate en la segunda guerra mundial, ya que el aporto para que la guerra terminara en dos años en ase a la maquina bomba que realizo se detectaba enigmas secretos,
