@@ -45,4 +45,5 @@ estas pueden perjudicarte de la misma forma que a la sociedad porque tienes más
 [![Whats-App-Image-2023-08-27-at-6-17-24-PM-7.jpg](https://i.postimg.cc/ZnvrwsS9/Whats-App-Image-2023- 27-08-a las-6-17-24-PM-7.jpg)](https://postimg.cc/jnKw5XCK)
 [![Whats-App-Image-2023-08-27-at-6-17-24-PM-6.jpg](https://i.postimg.cc/kMLZqkDp/Whats-App-Image-2023- 27-08-a las-6-17-24-PM-6.jpg)](https://postimg.cc/8sBwbXRR)
 
+Tarea 1.3 Partes de la computadora 
 
