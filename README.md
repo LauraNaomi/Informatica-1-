@@ -1,4 +1,4 @@
-# Informatica-1-
+UNIDAD 1 
 Tarea 1.1 "La computadora y su contexto histórico."
 Las computadoras son las herramientas de cálculo, aritmética y el almacenamiento de datos, ya que nos ayuda a hacer tareas,
 trabaojos o procesos mucho más rápidos, y de heco es mucho más indespensable. Una de las maquinas aritmeticas fue el abaco, que
