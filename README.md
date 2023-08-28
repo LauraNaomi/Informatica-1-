@@ -47,3 +47,16 @@ estas pueden perjudicarte de la misma forma que a la sociedad porque tienes más
 
 Tarea 1.3 Partes de la computadora 
 
+[![Whats-App-Image-2023-08-27-at-6-17-24-PM-5.jpg](https://i.postimg.cc/vmMRqy7n/Whats-App-Image-2023-08-27-at-6-17-24-PM-5.jpg)](https://postimg.cc/9DxN0vnX)
+[![Whats-App-Image-2023-08-27-at-6-17-24-PM-4.jpg](https://i.postimg.cc/j5xb5TLT/Whats-App-Image-2023-08-27-at-6-17-24-PM-4.jpg)](https://postimg.cc/t1MfSL3v)
+[![Whats-App-Image-2023-08-27-at-6-17-24-PM-2.jpg](https://i.postimg.cc/d1qHSYHh/Whats-App-Image-2023-08-27-at-6-17-24-PM-2.jpg)](https://postimg.cc/3ycFdPHh)
+[![Whats-App-Image-2023-08-27-at-6-17-24-PM-1.jpg](https://i.postimg.cc/wBYbLJDc/Whats-App-Image-2023-08-27-at-6-17-24-PM-1.jpg)](https://postimg.cc/v4Xzd4qc)
+
+
+
+
+Tarea 1.4 Adquisicion de una computadora
+
+
+
+[![Whats-App-Image-2023-08-27-at-6-17-24-PM.jpg](https://i.postimg.cc/2SRxKY3C/Whats-App-Image-2023-08-27-at-6-17-24-PM.jpg)](https://postimg.cc/HVz5rfQN)
