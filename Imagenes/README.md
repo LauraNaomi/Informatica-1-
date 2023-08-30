@@ -10,3 +10,6 @@ Liga de la imagen:
 
 Correo electronico 
 [olveramoralauranaomi@gmail.com](https://mail.google.com/mail/u/0/#inbox)
+
+telegram
+<img src="https://github.com/jzavalar/Informatica/blob/main/images /telegram_logo.svg" alt="Telegram" width="30%"/> [t.me/LauraNaomi](https://LauraNaomi.t.me)
