@@ -56,4 +56,6 @@ Tarea 1.4 Adquisicion de una computadora
 
 [![Whats-App-Image-2023-08-27-at-6-17-24-PM.jpg](https://i.postimg.cc/2SRxKY3C/Whats-App-Image-2023-08-27-at-6-17-24-PM.jpg)](https://postimg.cc/HVz5rfQN)
 
+<img src="AQUI PONER LA URL DE LA IMAGEN" alt="TITULO DE LA IMAGEN" width="PORCENTAJE DE ANCHO %"/>
+
 
