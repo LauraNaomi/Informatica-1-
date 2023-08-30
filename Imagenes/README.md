@@ -5,4 +5,4 @@ Liga de la imagen:
 
 
 
-[Koala](https://github.com/LauraNaomi/Informatica-1-/blob/main/Imagenes/Koala.jpg?raw=true) 
+[Koala](https://github.com/LauraNaomi/Informatica-1-/blob/main/Imagenes/Koala.jpg) 
