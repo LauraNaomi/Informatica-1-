@@ -11,7 +11,7 @@ Aqui mi evidencias de las partes de una computadora de escritorio, laptop, table
 https://drive.google.com/file/d/1vU9z-0_cjli29TpnqVDzqrsiz6gMTWXE/view?usp=sharing
 
 
-Evidencia de que descargue los videos a mi usb
+## Evidencia de que descargue los videos a mi usb
 [![Descarga-de-videos-parte-1.jpg](https://i.postimg.cc/8P3FDYwD/Descarga-de-videos-parte-1.jpg)](https://postimg.cc/ppfVJqg1)
 [![Descarga-de-videos-parte-2.jpg](https://i.postimg.cc/43vn6xGN/Descarga-de-videos-parte-2.jpg)](https://postimg.cc/DWZ2FFmt)
 [![Descarga-de-videos-parte-3.jpg](https://i.postimg.cc/hvvjR8df/Descarga-de-videos-parte-3.jpg)](https://postimg.cc/2Lpm4ZTD)
