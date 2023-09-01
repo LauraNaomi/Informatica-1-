@@ -1,5 +1,6 @@
 Aqui deben ir las fotos de la unidad 1
 
+
 Liga de la imagen:
 
 [Koala](https://github.com/LauraNaomi/Informatica-1-/blob/main/Imagenes/Koala.jpg) 
