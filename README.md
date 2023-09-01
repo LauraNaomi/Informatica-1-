@@ -15,6 +15,7 @@ ordenadores.[![Whats-App-Image-2023-08-26-at-8-01-39-PM-1.jpg](https://i.postimg
 
 
 
+
 La guerra de Alan Turín
 Fue una guerra muy duerte poara el porque se debate en la segunda guerra mundial, ya que el aporto para que la guerra terminara en dos años en ase a la maquina bomba que realizo se detectaba enigmas secretos,
 de los alemanes para ver en donde hiban a estar sus barcos y que los barcos podrían apoderarse del territorio.
@@ -48,7 +49,11 @@ de los alemanes para ver en donde hiban a estar sus barcos y que los barcos podr
 
 [![Whats-App-Image-2023-08-27-at-6-17-24-PM-5.jpg](https://i.postimg.cc/vmMRqy7n/Whats-App-Image-2023-08-27-at-6-17-24-PM-5.jpg)](https://postimg.cc/9DxN0vnX) [![Whats-App-Image-2023-08-27-at-6-17-24-PM-4.jpg](https://i.postimg.cc/j5xb5TLT/Whats-App-Image-2023-08-27-at-6-17-24-PM-4.jpg)](https://postimg.cc/t1MfSL3v)[![Whats-App-Image-2023-08-27-at-6-17-24-PM-2.jpg](https://i.postimg.cc/d1qHSYHh/Whats-App-Image-2023-08-27-at-6-17-24-PM-2.jpg)](https://postimg.cc/3ycFdPHh) [![Whats-App-Image-2023-08-27-at-6-17-24-PM-1.jpg](https://i.postimg.cc/wBYbLJDc/Whats-App-Image-2023-08-27-at-6-17-24-PM-1.jpg)](https://postimg.cc/v4Xzd4qc)
 
+[Partes de una computadora de escritorio y laptop](https://postimg.cc/2V0Ys91P)
 
+[Partes de una tablet](https://postimg.cc/0zZzHCvQ)
+
+[Partes de un celular](https://postimg.cc/5QM9tHJT)
 
 
 ## Tarea 1.4 Adquisicion de una computadora
