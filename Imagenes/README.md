@@ -1,6 +1,6 @@
 Aqui deben ir las fotos de la unidad 1
 
-
+<img src="AQUI PONER LA URL DE LA IMAGEN" alt="TITULO DE LA IMAGEN" width="PORCENTAJE DE ANCHO %"/>
 Liga de la imagen:
 
 [Koala](https://github.com/LauraNaomi/Informatica-1-/blob/main/Imagenes/Koala.jpg) 
@@ -11,7 +11,10 @@ Histroria de la computadora
 [![Whats-App-Image-2023-08-26-at-8-01-39-PM-1.jpg](https://i.postimg.cc/sDJQjjC4/Whats-App-Image-2023-08-26-at-8-01-39-PM-1.jpg)](https://postimg.cc/6yy5zN38)
 [![Whats-App-Image-2023-08-26-at-8-01-39-PM-2.jpg](https://i.postimg.cc/PJ3gyv8M/Whats-App-Image-2023-08-26-at-8-01-39-PM-2.jpg)](https://postimg.cc/T5bNYw0y)
 [Historia de la computadora 1](https://github.com/LauraNaomi/Informatica-1-/blob/main/Imagenes/Historia de la computadora 1.jpg)
+
+https://github.com/LauraNaomi/Informatica-1-/blob/640ae324295f67da8fef9c5c26e7908cd7826076/Imagenes1/Adquisiscion%20de%20una%20computadora.jpeg
 Pelicula de la gurre de Alan Thuring 
+
 
 [![Whats-App-Image-2023-08-26-at-8-01-39-PM.jpg](https://i.postimg.cc/qq3FsD4p/Whats-App-Image-2023-08-26-at-8-01-39-PM.jpg)](https://postimg.cc/5Qfp13Xr) 
 
