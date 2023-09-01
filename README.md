@@ -35,12 +35,9 @@ de los alemanes para ver en donde hiban a estar sus barcos y que los barcos podr
 ¿Quiénes fueron Alan Turing y John Von Newmann y cuáles fueron sus aportes a la creación de la computadora y las ciencias de la computación?
 ¿Cuáles son las consecuencias e importancia de la computadora en la sociedad y en la administración en la actualidad?
 
-
-[![Whats-App-Image-2023-08-27-at-6-17-24-PM-8.jpg](https://i.postimg.cc/wBRDTCVx/Whats-App-Image-2023-08-27-at-6-17-24-PM-8.jpg)](https://postimg.cc/zL5yxP64)
-
-[![Whats-App-Image-2023-08-27-at-6-17-24-PM-7.jpg](https://i.postimg.cc/QxPtxHn5/Whats-App-Image-2023-08-27-at-6-17-24-PM-7.jpg)](https://postimg.cc/4m6ZWNGN)
-
-[![Whats-App-Image-2023-08-27-at-6-17-24-PM-6.jpg](https://i.postimg.cc/TYZdvBpJ/Whats-App-Image-2023-08-27-at-6-17-24-PM-6.jpg)](https://postimg.cc/HV9DQZ0r)
+[Preguntas de la tarea 1.2 parte 1](https://i.postimg.cc/wBRDTCVx/Whats-App-Image-2023-08-27-at-6-17-24-PM-8.jpg)
+[Preguntas de la tarea 1.2 parte 2](https://i.postimg.cc/QxPtxHn5/Whats-App-Image-2023-08-27-at-6-17-24-PM-7.jpg) 
+[Preguntas de la tarea 1.2 parte 3](https://i.postimg.cc/TYZdvBpJ/Whats-App-Image-2023-08-27-at-6-17-24-PM-6.jpg)
 
 
 ## Tarea 1.3 Partes de la computadora 
