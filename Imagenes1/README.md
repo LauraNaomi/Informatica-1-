@@ -8,3 +8,4 @@ Preguntas de la disciplina de la computación: contexto histórico, evolución e
 
 Partes de una computadora de escritorio, laptop, celular y tablet
 [Partes de una computadora de escritorio y laptop](https://postimg.cc/2V0Ys91P)
+[Partes de una tablet](Whats-App-Image-2023-08-27-at-6-17-24-PM-2.jpg)
