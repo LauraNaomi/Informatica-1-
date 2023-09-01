@@ -6,4 +6,10 @@ Aqui mi evidencias de las partes de una computadora de escritorio, laptop, table
 
 [![Whats-App-Image-2023-08-27-at-6-17-24-PM-1.jpg](https://i.postimg.cc/tJss2PMq/Whats-App-Image-2023-08-27-at-6-17-24-PM-1.jpg)](https://postimg.cc/5QM9tHJT)
 
+## VIDEO DE LAS PARTES DE MI COMPUTADORA 
+
+https://drive.google.com/file/d/1vU9z-0_cjli29TpnqVDzqrsiz6gMTWXE/view?usp=sharing
+
+
 Evidencia de que descargue los videos a mi usb
+
