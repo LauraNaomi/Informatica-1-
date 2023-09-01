@@ -44,6 +44,12 @@ estas pueden perjudicarte de la misma forma que a la sociedad porque tienes más
 [![Whats-App-Image-2023-08-27-at-6-17-24-PM-8.jpg](https://i.postimg.cc/N0QkQx1V/Whats-App-Image-2023- 27-08-a las-17-6-24-PM-8.jpg)](https://postimg.cc/mP6HwCpN)
 [![Whats-App-Image-2023-08-27-at-6-17-24-PM-7.jpg](https://i.postimg.cc/ZnvrwsS9/Whats-App-Image-2023- 27-08-a las-6-17-24-PM-7.jpg)](https://postimg.cc/jnKw5XCK)
 [![Whats-App-Image-2023-08-27-at-6-17-24-PM-6.jpg](https://i.postimg.cc/kMLZqkDp/Whats-App-Image-2023- 27-08-a las-6-17-24-PM-6.jpg)](https://postimg.cc/8sBwbXRR)
+[![Whats-App-Image-2023-08-27-at-6-17-24-PM-8.jpg](https://i.postimg.cc/wBRDTCVx/Whats-App-Image-2023-08-27-at-6-17-24-PM-8.jpg)](https://postimg.cc/zL5yxP64)
+
+[![Whats-App-Image-2023-08-27-at-6-17-24-PM-7.jpg](https://i.postimg.cc/QxPtxHn5/Whats-App-Image-2023-08-27-at-6-17-24-PM-7.jpg)](https://postimg.cc/4m6ZWNGN)
+
+[![Whats-App-Image-2023-08-27-at-6-17-24-PM-6.jpg](https://i.postimg.cc/TYZdvBpJ/Whats-App-Image-2023-08-27-at-6-17-24-PM-6.jpg)](https://postimg.cc/HV9DQZ0r)
+
 
 ## Tarea 1.3 Partes de la computadora 
 
