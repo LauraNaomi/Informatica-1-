@@ -15,6 +15,7 @@ Pelicula de la gurre de Alan Thuring
 
 [![Whats-App-Image-2023-08-26-at-8-01-39-PM.jpg](https://i.postimg.cc/qq3FsD4p/Whats-App-Image-2023-08-26-at-8-01-39-PM.jpg)](https://postimg.cc/5Qfp13Xr) 
 
+[![Whats-App-Image-2023-08-26-at-8-01-39-PM.jpg] (https://github.com/LauraNaomi/Informatica-1-/blob/main/Imagenes/Historia de alan turing.jpg) 
 
 Fotos de la tarea 1.2
 
