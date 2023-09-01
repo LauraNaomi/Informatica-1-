@@ -44,6 +44,9 @@ de los alemanes para ver en donde hiban a estar sus barcos y que los barcos podr
 
 
 ## Tarea 1.3 Partes de la computadora 
+[Partes de una computadora de escritorio y laptop](https://postimg.cc/2V0Ys91P)
+[Partes de una tablet](https://postimg.cc/0zZzHCvQ)
+[Partes de un celular](https://postimg.cc/5QM9tHJT)
 
 
 [Partes de una computadora de escritorio y laptop](https://postimg.cc/2V0Ys91P)
