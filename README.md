@@ -39,6 +39,10 @@ de los alemanes para ver en donde hiban a estar sus barcos y que los barcos podr
 [Preguntas de la tarea 1.2 parte 2](https://i.postimg.cc/QxPtxHn5/Whats-App-Image-2023-08-27-at-6-17-24-PM-7.jpg) 
 [Preguntas de la tarea 1.2 parte 3](https://i.postimg.cc/TYZdvBpJ/Whats-App-Image-2023-08-27-at-6-17-24-PM-6.jpg)
 
+Video de que subi mi evidencia
+
+https://drive.google.com/file/d/1F5MNUyUQA7qg6693zIOdKXJM9NFAGBYF/view?usp=sharing 
+
 
 ## Tarea 1.3 Partes de la computadora 
 [Partes de una computadora de escritorio y laptop](https://postimg.cc/2V0Ys91P)
