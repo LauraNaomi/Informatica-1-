@@ -5,9 +5,15 @@ Liga de la imagen:
 
 [Koala](https://github.com/LauraNaomi/Informatica-1-/blob/main/Imagenes/Koala.jpg) 
 
+Fotos de la tarea 1.1 
+Histroria de la computadora
 
+[![Whats-App-Image-2023-08-26-at-8-01-39-PM-1.jpg](https://i.postimg.cc/sDJQjjC4/Whats-App-Image-2023-08-26-at-8-01-39-PM-1.jpg)](https://postimg.cc/6yy5zN38)
+[![Whats-App-Image-2023-08-26-at-8-01-39-PM-2.jpg](https://i.postimg.cc/PJ3gyv8M/Whats-App-Image-2023-08-26-at-8-01-39-PM-2.jpg)](https://postimg.cc/T5bNYw0y)
 
-<img src="![WhatsApp Image 2023-08-26 at 8 01 39 PM (1)](https://github.com/LauraNaomi/Informatica-1-/assets/143301791/1426f101-7ec3-4947-9a84-f6c571c3f1ee) " alt="Historia de la computadora" width="PORCENTAJE DE ANCHO 75%"/>
+Pelicula de la gurre de Alan Thuring 
+
+[![Whats-App-Image-2023-08-26-at-8-01-39-PM.jpg](https://i.postimg.cc/qq3FsD4p/Whats-App-Image-2023-08-26-at-8-01-39-PM.jpg)](https://postimg.cc/5Qfp13Xr) 
 
 
 Correo electronico 
