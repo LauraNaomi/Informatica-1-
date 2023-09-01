@@ -1,7 +1,10 @@
-## HISTORIA DE LA COMPUTADORA
-A qui estan mis evidencias de la hitoria de la computadora 
-[![Whats-App-Image-2023-08-26-at-8-01-39-PM-1.jpg](https://i.postimg.cc/sDJQjjC4/Whats-App-Image-2023-08-26-at-8-01-39-PM-1.jpg)](https://postimg.cc/6yy5zN38)
-[![Whats-App-Image-2023-08-26-at-8-01-39-PM-2.jpg](https://i.postimg.cc/PJ3gyv8M/Whats-App-Image-2023-08-26-at-8-01-39-PM-2.jpg)](https://postimg.cc/T5bNYw0y)
-## PELICULA DE LA GUERRA DE ALAN TURING 
-Aqui esta mu resumen de la guerra de Alan turing
-[![Whats-App-Image-2023-08-26-at-8-01-39-PM.jpg](https://i.postimg.cc/qq3FsD4p/Whats-App-Image-2023-08-26-at-8-01-39-PM.jpg)](https://postimg.cc/5Qfp13Xr) 
+## La disciplina de la computación: contexto histórico, evolución e importancia.
+Aqui mi evidencia de las preguntas de la tarea 1.2 
+[![Whats-App-Image-2023-08-27-at-6-17-24-PM-8.jpg](https://i.postimg.cc/wBRDTCVx/Whats-App-Image-2023-08-27-at-6-17-24-PM-8.jpg)](https://postimg.cc/zL5yxP64)
+
+[![Whats-App-Image-2023-08-27-at-6-17-24-PM-7.jpg](https://i.postimg.cc/QxPtxHn5/Whats-App-Image-2023-08-27-at-6-17-24-PM-7.jpg)](https://postimg.cc/4m6ZWNGN)
+
+[![Whats-App-Image-2023-08-27-at-6-17-24-PM-6.jpg](https://i.postimg.cc/TYZdvBpJ/Whats-App-Image-2023-08-27-at-6-17-24-PM-6.jpg)](https://postimg.cc/HV9DQZ0r)
+
+Video tutorial de que realice la tarea 
+
