@@ -34,9 +34,7 @@ de los alemanes para ver en donde hiban a estar sus barcos y que los barcos podr
 
 ¿Quiénes fueron Alan Turing y John Von Newmann y cuáles fueron sus aportes a la creación de la computadora y las ciencias de la computación?
 ¿Cuáles son las consecuencias e importancia de la computadora en la sociedad y en la administración en la actualidad?
-[Preguntas de la tarea 1.2 parte 1](https://i.postimg.cc/wBRDTCVx/Whats-App-Image-2023-08-27-at-6-17-24-PM-8.jpg)
-[Preguntas de la tarea 1.2 parte 2](https://i.postimg.cc/QxPtxHn5/Whats-App-Image-2023-08-27-at-6-17-24-PM-7.jpg) 
-[Preguntas de la tarea 1.2 parte 3](https://i.postimg.cc/TYZdvBpJ/Whats-App-Image-2023-08-27-at-6-17-24-PM-6.jpg)
+
 
 [![Whats-App-Image-2023-08-27-at-6-17-24-PM-8.jpg](https://i.postimg.cc/wBRDTCVx/Whats-App-Image-2023-08-27-at-6-17-24-PM-8.jpg)](https://postimg.cc/zL5yxP64)
 
@@ -47,7 +45,6 @@ de los alemanes para ver en donde hiban a estar sus barcos y que los barcos podr
 
 ## Tarea 1.3 Partes de la computadora 
 
-[![Whats-App-Image-2023-08-27-at-6-17-24-PM-5.jpg](https://i.postimg.cc/vmMRqy7n/Whats-App-Image-2023-08-27-at-6-17-24-PM-5.jpg)](https://postimg.cc/9DxN0vnX) [![Whats-App-Image-2023-08-27-at-6-17-24-PM-4.jpg](https://i.postimg.cc/j5xb5TLT/Whats-App-Image-2023-08-27-at-6-17-24-PM-4.jpg)](https://postimg.cc/t1MfSL3v)[![Whats-App-Image-2023-08-27-at-6-17-24-PM-2.jpg](https://i.postimg.cc/d1qHSYHh/Whats-App-Image-2023-08-27-at-6-17-24-PM-2.jpg)](https://postimg.cc/3ycFdPHh) [![Whats-App-Image-2023-08-27-at-6-17-24-PM-1.jpg](https://i.postimg.cc/wBYbLJDc/Whats-App-Image-2023-08-27-at-6-17-24-PM-1.jpg)](https://postimg.cc/v4Xzd4qc)
 
 [Partes de una computadora de escritorio y laptop](https://postimg.cc/2V0Ys91P)
 
