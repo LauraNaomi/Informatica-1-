@@ -7,8 +7,7 @@ es un principio de la calculadora. La maquina Pascalina que la invento Blaise Pa
 y este Gottfried Leibinitz mejoro la maquina Pascalina, y de aqui se emepso a modificar mas las calculadoras y fuen una parate del Principio de de la
 ordenadores.[![Whats-App-Image-2023-08-26-at-8-01-39-PM-1.jpg](https://i.postimg.cc/GhP7F9hk/Whats-App-Image- 2023-08-26-at-8-01-39-PM-1.jpg)](https://postimg.cc/GH2xrLD2)
 [![Whats-App-Image-2023-08-26-at-8-01-39-PM-2.jpg](https://i.postimg.cc/PJQWwpzJ/Whats-App-Image-2023- 26-08-a-8-01-39-PM-2.jpg)](https://postimg.cc/4HnHC30R)
-![WhatsApp Image 2023-08-26 at 8 01 39 PM (1)](https://github.com/LauraNaomi/Informatica-1-/assets/143301791/94b79136-ac6a-4715-9262-dc763af01444)
-![WhatsApp Image 2023-08-26 at 8 01 39 PM (2)](https://github.com/LauraNaomi/Informatica-1-/assets/143301791/3f2fca40-497c-486d-9535-1e7506fc7f38)
+
 
 
 
