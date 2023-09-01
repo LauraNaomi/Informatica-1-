@@ -3,9 +3,11 @@ Aqui deben ir las fotos
 
 Liga de la imagen:
 
-
-
 [Koala](https://github.com/LauraNaomi/Informatica-1-/blob/main/Imagenes/Koala.jpg) 
+
+
+
+<img src="![WhatsApp Image 2023-08-26 at 8 01 39 PM (1)](https://github.com/LauraNaomi/Informatica-1-/assets/143301791/1426f101-7ec3-4947-9a84-f6c571c3f1ee) " alt="Historia de la computadora" width="PORCENTAJE DE ANCHO 75%"/>
 
 
 Correo electronico 
