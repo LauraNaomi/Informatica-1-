@@ -12,6 +12,7 @@ Histroria de la computadora
 [![Whats-App-Image-2023-08-26-at-8-01-39-PM-2.jpg](https://i.postimg.cc/PJ3gyv8M/Whats-App-Image-2023-08-26-at-8-01-39-PM-2.jpg)](https://postimg.cc/T5bNYw0y)
 [Historia de la computadora 1](https://github.com/LauraNaomi/Informatica-1-/blob/main/Imagenes/Historia de la computadora 1.jpg)
 
+C:\Users\LENOVO\Downloads\Las partes de un celular.jpeg
 https://github.com/LauraNaomi/Informatica-1-/blob/640ae324295f67da8fef9c5c26e7908cd7826076/Imagenes1/Adquisiscion%20de%20una%20computadora.jpeg
 Pelicula de la gurre de Alan Thuring 
 
@@ -44,6 +45,9 @@ Fotos de la tarea 1.4
 
 [![Whats-App-Image-2023-08-27-at-6-17-24-PM.jpg](https://i.postimg.cc/bY0nVHrJ/Whats-App-Image-2023-08-27-at-6-17-24-PM.jpg)](https://postimg.cc/JtntGXbV)
 
+
+
+[Tbla](https://i.postimg.cc/bY0nVHrJ/Whats-App-Image-2023-08-27-at-6-17-24-PM.jpg)
 
 
 
