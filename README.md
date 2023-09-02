@@ -44,9 +44,7 @@ https://drive.google.com/file/d/1F5MNUyUQA7qg6693zIOdKXJM9NFAGBYF/view?usp=shari
 
 
 ## Tarea 1.3 Partes de la computadora 
-[Partes de una computadora de escritorio y laptop](https://postimg.cc/2V0Ys91P)
-[Partes de una tablet](https://postimg.cc/0zZzHCvQ)
-[Partes de un celular](https://postimg.cc/5QM9tHJT)
+
 
 
 [Partes de una computadora de escritorio y laptop](https://postimg.cc/2V0Ys91P)
