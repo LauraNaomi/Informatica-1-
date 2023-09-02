@@ -10,3 +10,4 @@ Partes de una computadora de escritorio, laptop, celular y tablet
 [Partes de una computadora de escritorio y laptop](https://postimg.cc/2V0Ys91P)
 [Partes de una tablet](https://postimg.cc/0zZzHCvQ)
 [Partes de un celular](https://postimg.cc/5QM9tHJT)
+[Descarga de videos en la usb]
