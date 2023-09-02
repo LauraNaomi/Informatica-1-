@@ -65,7 +65,9 @@ Partes de una computadora de escritori, laptop, tablet y telefono
 
 [Descarga de videos de como funcionan las computadoras parte 5](https://i.postimg.cc/MZLZjQBm/Descarga-de-videos-parte-5.jpg)
 
+Video de las partes de mi computadora
 
+https://drive.google.com/file/d/1vU9z-0_cjli29TpnqVDzqrsiz6gMTWXE/view?usp=sharing
 
 ## Tarea 1.4 Adquisicion de una computadora
 
