@@ -6,9 +6,9 @@ trabaojos o procesos mucho más rápidos, y de heco es mucho más indespensable.
 es un principio de la calculadora. La maquina Pascalina que la invento Blaise Pascal, que consitia en engranajes que hacian operaciones aritmeticas,
 y este Gottfried Leibinitz mejoro la maquina Pascalina, y de aqui se emepso a modificar mas las calculadoras y fuen una parate del Principio de de la
 ordenadores.
-[Historia de la computadora](https://i.postimg.cc/GhP7F9hk/Whats-App-Image- 2023-08-26-at-8-01-39-PM-1.jpg)
-[![Historia de la computadora parte 2](https://i.postimg.cc/PJQWwpzJ/Whats-App-Image-2023- 26-08-a-8-01-39-PM-2.jpg)](https://postimg.cc/4HnHC30R)
+[Historia de la computadora parte 1](https://i.postimg.cc/sDJQjjC4/Whats-App-Image-2023-08-26-at-8-01-39-PM-1.jpg)
 
+[Historia de la computadora parte 2](https://i.postimg.cc/PJ3gyv8M/Whats-App-Image-2023-08-26-at-8-01-39-PM-2.jpg)
 
 
 
@@ -19,7 +19,8 @@ ordenadores.
 La guerra de Alan Turín
 Fue una guerra muy duerte poara el porque se debate en la segunda guerra mundial, ya que el aporto para que la guerra terminara en dos años en ase a la maquina bomba que realizo se detectaba enigmas secretos,
 de los alemanes para ver en donde hiban a estar sus barcos y que los barcos podrían apoderarse del territorio.
-[![Whats-App-Image-2023-08-26-at-8-01-39-PM.jpg](https://i.postimg.cc/3NYpYr5T/Whats-App-Image-2023-08- 26-a-8-01-39-PM.jpg)](https://postimg.cc/dkND9YVH)
+
+[Resumen de la guerra de Alan turing](https://i.postimg.cc/qq3FsD4p/Whats-App-Image-2023-08-26-at-8-01-39-PM.jpg)
 
 
 ## Tarea 1.2. La disciplina de la computación: contexto histórico, evolución e importancia.
