@@ -41,4 +41,6 @@ Descarga de videos
 
 [Descarga de videos de como funcionan las computadoras parte 5](https://i.postimg.cc/MZLZjQBm/Descarga-de-videos-parte-5.jpg)
 
+Tabla comparativa de comprar una coputadora nueva a una de segunda mano
 
+[Tabla comparativa](https://i.postimg.cc/bY0nVHrJ/Whats-App-Image-2023-08-27-at-6-17-24-PM.jpg)
