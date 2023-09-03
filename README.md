@@ -75,4 +75,4 @@ Video de que subi mi evidencia 1.3 a github.
 https://drive.google.com/file/d/1FayISinb1Hk2P5xnf4u7SXf5QYJyHX-v/view?usp=drivesdk 
 ## Tarea 1.4 Adquisicion de una computadora
 
-[![Whats-App-Image-2023-08-27-at-6-17-24-PM.jpg](https://i.postimg.cc/2SRxKY3C/Whats-App-Image-2023-08-27-at-6-17-24-PM.jpg)](https://postimg.cc/HVz5rfQN)
+[Tabla comparativa](https://i.postimg.cc/2SRxKY3C/Whats-App-Image-2023-08-27-at-6-17-24-PM.jpg)
