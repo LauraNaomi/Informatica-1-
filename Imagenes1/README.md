@@ -1,3 +1,15 @@
+Historia de la computadora 
+
+[Historia de la computadora parte 1](https://i.postimg.cc/sDJQjjC4/Whats-App-Image-2023-08-26-at-8-01-39-PM-1.jpg)
+
+[Historia de la computadora parte 2](https://i.postimg.cc/PJ3gyv8M/Whats-App-Image-2023-08-26-at-8-01-39-PM-2.jpg)
+
+Guerra de Alan Turing 
+
+[Resumen de la guerra de Alan turing](https://i.postimg.cc/qq3FsD4p/Whats-App-Image-2023-08-26-at-8-01-39-PM.jpg)
+
+
+
 Preguntas de la disciplina de la computación: contexto histórico, evolución e importancia
 
 [Preguntas de la tarea 1.2 parte 1](https://i.postimg.cc/wBRDTCVx/Whats-App-Image-2023-08-27-at-6-17-24-PM-8.jpg)
