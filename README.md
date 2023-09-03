@@ -68,7 +68,9 @@ Partes de una computadora de escritori, laptop, tablet y telefono
 Video de las partes de mi computadora
 
 https://drive.google.com/file/d/1vU9z-0_cjli29TpnqVDzqrsiz6gMTWXE/view?usp=sharing
+
 Video de que subi mi evidencia 1.3 a github.
+
 https://drive.google.com/file/d/1FayISinb1Hk2P5xnf4u7SXf5QYJyHX-v/view?usp=drivesdk 
 ## Tarea 1.4 Adquisicion de una computadora
 
